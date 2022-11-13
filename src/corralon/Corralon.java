@@ -1,6 +1,6 @@
 package corralon;
 
-import view.Login;
+import corralon.view.Login;
 
 public class Corralon {
 
