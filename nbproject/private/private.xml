@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/sam/OneDrive/Documentos/NetBeansProjects/tp-paradigmas/src/tp/paradigmas/TpParadigmas.java</file>
+            <file>file:/C:/Users/sam/NetBeansProjects/tp-paradigmas/src/corralon/view/EditProduct.java</file>
+            <file>file:/C:/Users/sam/NetBeansProjects/tp-paradigmas/src/corralon/view/CreateProduct.java</file>
+            <file>file:/C:/Users/sam/NetBeansProjects/tp-paradigmas/src/corralon/model/DBManagerImpl.java</file>
+            <file>file:/C:/Users/sam/NetBeansProjects/tp-paradigmas/src/corralon/controller/ProductControllerImpl.java</file>
         </group>
     </open-files>
 </project-private>
