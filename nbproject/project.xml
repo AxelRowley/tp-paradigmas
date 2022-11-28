@@ -3,8 +3,12 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>tp-paradigmas</name>
             <explicit-platform explicit-source-supported="true"/>
+=======
+            <name>JavaApplication3</name>
+>>>>>>> f2574f8b7a88a9dce57ae0d350123f0efab4b08e
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
