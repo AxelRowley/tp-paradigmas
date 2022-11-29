@@ -45,7 +45,7 @@ public class CreateProduct extends javax.swing.JInternalFrame {
         listProduct = new javax.swing.JTable();
 
         setClosable(true);
-        setTitle("Crear Producto");
+        setTitle("Cargar Producto");
         setPreferredSize(new java.awt.Dimension(1024, 728));
 
         code.setName(""); // NOI18N
@@ -77,9 +77,9 @@ public class CreateProduct extends javax.swing.JInternalFrame {
 
         jLabel5.setText("Stock");
 
-        jLabel6.setText("Vendedor");
+        jLabel6.setText("Proveedor");
 
-        add.setText("Agregar");
+        add.setText("Cargar");
         add.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 addActionPerformed(evt);
@@ -101,7 +101,7 @@ public class CreateProduct extends javax.swing.JInternalFrame {
                 {null, null, null, null, null, null}
             },
             new String [] {
-                "Código", "Nombre", "Precio", "Cantidad", "Stock", "Vendedor"
+                "Código", "Nombre", "Precio", "Cantidad", "Stock", "Proveedor"
             }
         ));
         listProducts.setViewportView(listProduct);

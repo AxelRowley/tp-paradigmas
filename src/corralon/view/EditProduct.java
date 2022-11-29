@@ -90,7 +90,7 @@ public class EditProduct extends javax.swing.JInternalFrame {
                 {null, null, null, null, null, null, null}
             },
             new String [] {
-                "Id", "Código", "Nombre", "Precio", "Cantidad", "Stock", "Vendedor"
+                "Id", "Código", "Nombre", "Precio", "Cantidad", "Stock", "Proveedor"
             }
         ));
         listProduct.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -107,7 +107,7 @@ public class EditProduct extends javax.swing.JInternalFrame {
             }
         });
 
-        jLabel6.setText("Vendedor");
+        jLabel6.setText("Proveedor");
 
         code.setName(""); // NOI18N
         code.addActionListener(new java.awt.event.ActionListener() {

@@ -25,7 +25,7 @@ public class ProductControllerImpl implements ProductController{
             "Precio",
             "Cantidad",
             "Stock",
-            "Vendedor"
+            "Proveedor"
         };
         DefaultTableModel tableModel = new DefaultTableModel(null, table);
         ResultSet result = manager.getData("SELECT * FROM products");
@@ -52,7 +52,7 @@ public class ProductControllerImpl implements ProductController{
             "Precio",
             "Cantidad",
             "Stock",
-            "Vendedor"
+            "Proveedor"
         };
         DefaultTableModel tableModel = new DefaultTableModel(null, table);
         ResultSet result = manager.getData("SELECT * FROM products");

@@ -48,7 +48,7 @@ public class Main extends javax.swing.JFrame {
 
         menuProducts.setText("Menú");
 
-        add.setText("Agregar producto");
+        add.setText("Cargar producto");
         add.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 addActionPerformed(evt);
